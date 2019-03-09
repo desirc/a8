@@ -1,0 +1,11 @@
+a8:
+
+Error: Error in output$plot <-
+ renderPlot({ : object 'output' not found
+Solution: I had sourced in a different file which I had copied the code into
+          for safe-keeping. However, I had the same code in the server so
+          thought there was something wrong with the server.
+
+Error: Colours of points on plot were the same so I thought only
+      one plot had been plotted.
+Solution: I changed the colours to stand out against each other.

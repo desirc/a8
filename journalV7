@@ -1,8 +1,0 @@
-#Week 8:
-
-Problem: The graph I had was showing too many x values - the amount of
-          data wouldn't fit on the graph.
-Solution: I changed it so only a sample of the x values would be shown.
-
-Problem: The file wasn't importing.
-Solution: I was in the wrong session.
